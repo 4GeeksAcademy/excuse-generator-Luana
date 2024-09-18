@@ -30,7 +30,7 @@ function getRandom(anyArray) {
 window.onload = function() {
   //write your code here
   console.log("Hello Rigo from the console!");
-  document.querySelector('#btn').addEventListener("click" , () =>)
+
   document.querySelector("#excuse").innerHTML =
     getRandom(who) +
     " " +
